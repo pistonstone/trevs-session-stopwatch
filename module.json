@@ -1,0 +1,24 @@
+{
+  "id": "trevs-session-stopwatch",
+  "title": "Trev's Session Stopwatch",
+  "description": "A system-independent session stopwatch that pauses with Foundry. No ALIEN dependency.",
+  "version": "0.2.0",
+  "authors": [
+    {
+      "name": "Billy J Jackson"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.367",
+    "maximum": "14"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "license": "LICENSE.txt",
+  "readme": "README.md",
+  "styles": [
+    "styles/tools.css"
+  ]
+}
